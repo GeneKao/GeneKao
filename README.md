@@ -1,6 +1,11 @@
 ### Hi I'm Gene! :wave: :grin: 
 
-<img align="left" src="https://github.com/GeneKao/GeneKao/blob/master/mikeMU.gif" height="150" width="150">
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/GeneKao/GeneKao/blob/master/cra.jpg?raw=true"/></td>
+    <td valign="top"><img src="https://github.com/GeneKao/GeneKao/blob/master/mikeMU.gif?raw=true"/></td>
+  </tr>
+</table>
 
 I'm a designer, researcher, engineer, and programmer who specialises computational design, digital fabrication in architecture 🏛 and visual computing in computer science 💻.
 
