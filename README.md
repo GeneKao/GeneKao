@@ -15,7 +15,7 @@ I'm currently a PhD candidate at the [Institute of Technology in Architecture](h
 
 Find me on:
 
-<p align='center'>
+<p align='left'>
   
   <a href="https://www.linkedin.com/in/kaogene/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
