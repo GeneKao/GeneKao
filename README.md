@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <td valign="top"><img src="https://github.com/GeneKao/GeneKao/blob/master/cra.jpg?raw=true"/></td>
-    <td valign="top"><img src="https://github.com/GeneKao/GeneKao/blob/master/mikeMU.gif?raw=true"/></td>
+    <td valign="top"><img src="https://github.com/GeneKao/GeneKao/blob/main/cra.jpg?raw=true"/></td>
+    <td valign="top"><img src="https://github.com/GeneKao/GeneKao/blob/main/mikeMU.gif?raw=true"/></td>
   </tr>
 </table>
 
@@ -15,5 +15,13 @@ I'm currently a PhD candidate at the [Institute of Technology in Architecture](h
 
 Find me on:
 
-- [My website](https://www.geneatcg.com/)
-- [LinkedIn](https://www.linkedin.com/in/kaogene/)
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/kaogene/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>
+  <a href="https://www.geneatcg.com/">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+
+</p>
