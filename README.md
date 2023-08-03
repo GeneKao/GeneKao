@@ -1,19 +1,4 @@
-### Hi I'm Gene! :wave: :grin: 
-
-<table>
-  <tr>
-    <td valign="top"><img src="https://github.com/GeneKao/GeneKao/blob/main/cra.jpg?raw=true"/></td>
-    <td valign="top"><img src="https://github.com/GeneKao/GeneKao/blob/main/mikeMU.gif?raw=true"/></td>
-  </tr>
-</table>
-
-I'm a designer, researcher, engineer, and programmer who specialises computational design, digital fabrication in architecture 🏛 and visual computing in computer science 💻.
-
-I believe interdisciplinary research boosts innovation. My passion is combining computation and mathematics with design and fabrication. I received a [CAS in Computer Science](https://inf.ethz.ch/continuing-education/certificate-program.html) at [ETH Zurich](https://ethz.ch/en.html), an MSc in [Integrative Technologies and Architectural Design Research](https://www.uni-stuttgart.de/en/study/study-programs/Integrative-Technologies-and-Architectural-Design-Research-ITECH-M.Sc-00002./) at Stuttgart University, and BArch at Tamkang University. I worked in software development and R&D in both Germany 🇩🇪 and Taiwan 🇹🇼.
-
-I'm currently a PhD candidate at the [Institute of Technology in Architecture](https://ita.arch.ethz.ch/) at ETH Zurich 🇨🇭, where I'm a research assistant in [Block Research Group](https://block.arch.ethz.ch/brg/) and [NCCR Digital Fabrication](https://www.dfab.ch/), supervised by [Prof. Philippe Block](https://block.arch.ethz.ch/brg/people/philippe-block) and co-supervised by [Prof. Stelian Coros](http://crl.ethz.ch/people/coros/index.html).
-
-Find me on:
+### Hi I'm Gene! 
 
 <p align='left'>
   
@@ -25,3 +10,12 @@ Find me on:
   </a>
 
 </p>
+
+<table>
+  <tr>
+    <td valign="top"><img src="https://github.com/GeneKao/GeneKao/blob/main/cra.jpg?raw=true"/></td>
+    <td valign="top"><img src="https://github.com/GeneKao/GeneKao/blob/main/mikeMU.gif?raw=true"/></td>
+  </tr>
+</table>
+
+I am a passionate designer, engineer, and scientist deeply drawn to the world of computational geometry, 3D geometry processing, and simulation. Currently, I am an R&D Engineer II at Ansys - Meshing Development Unit (MDU), where I focus on 3D computational geometry processing topics. I bring diversity and an interdisciplinary perspective to my work and life, with a Doctor of Sciences degree from ETH Zurich, a CAS in Computer Science from the same institution, an MSc in ITECH from Stuttgart University, a BArch from Tamkang University, many international R&D experiences, and lived in Sweden🇸🇪, Switzerland🇨🇭, Germany🇩🇪, and Taiwan🇹🇼. Additionally, I love swimming🏊🏼‍♂️, cooking👨🏻‍🍳, reading📚, games👾, and dogs🐶.
