@@ -1,14 +1,12 @@
 ### Hi I'm Gene! 
 
 <p align='left'>
-  
+  <a href="https://www.geneatcg.com/">
+  <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/kaogene/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />        
   </a>
-  <a href="https://www.geneatcg.com/">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-
 </p>
 
 <table>
