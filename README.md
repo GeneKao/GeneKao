@@ -16,4 +16,6 @@
   </tr>
 </table>
 
-I am a passionate designer, engineer, and scientist deeply drawn to the world of computational geometry, 3D geometry processing, and simulation. Currently, I am an R&D Engineer II at Ansys - Meshing Development Unit (MDU), where I focus on 3D computational geometry processing topics. I bring diversity and an interdisciplinary perspective to my work and life, with a Doctor of Sciences degree from ETH Zurich, a CAS in Computer Science from the same institution, an MSc in ITECH from Stuttgart University, a BArch from Tamkang University, many international R&D experiences, and lived in Sweden🇸🇪, Switzerland🇨🇭, Germany🇩🇪, and Taiwan🇹🇼. Additionally, I love swimming🏊🏼‍♂️, cooking👨🏻‍🍳, reading📚, games👾, and dogs🐶.
+I am a Senior Research & Development Engineer working on computational geometry, geometry processing, and meshing algorithms for simulation and CAD software at Synopsys (formerly Ansys).
+
+I focus on rigorously formulating problems and translating theory into robust, production-quality software. I hold a Doctor of Sciences from ETH Zurich and have an interdisciplinary background across engineering, computer science, architecture, and design, with work and life experience in Sweden, Switzerland, Germany, and Taiwan.
